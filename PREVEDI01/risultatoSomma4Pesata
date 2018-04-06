@@ -1,0 +1,9 @@
+N° campioni totali: 186
+Media 4: -17.051313 Media 3: -19.156662 Media 2: -18.599009 Media 1: -6.026078 Media 0: 1.302611
+N° campioni in cui il machine learning ha migliorato il risultato: 7
+Media 4: 12.756495 Media 3: 10.913336 Media 2: 8.808022 Media 1: 6.312898 Media 0: 2.381287
+Soglia 4 ----> MAX: 34.500500	MIN: -114.038002	ImmagineMax: 184 ImmagineMin: 91
+Soglia 3 ----> MAX: 32.620300	MIN: -86.236603	ImmagineMax: 184 ImmagineMin: 25
+Soglia 2 ----> MAX: 29.231199	MIN: -55.956501	ImmagineMax: 184 ImmagineMin: 86
+Soglia 1 ----> MAX: 18.800200	MIN: -20.501600	ImmagineMax: 184 ImmagineMin: 86
+Soglia 0 ----> MAX: 4.766660	MIN: -1.644730	ImmagineMax: 50 ImmagineMin: 166
